@@ -1,0 +1,35 @@
+# Directorios de entorno virtual
+venv/
+.venv/
+env/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb-filter
+
+# Archivos temporales y de caché
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Archivos de datos grandes o sensibles
+data/*.csv  
+data/*.json
+data/*.parquet
+data/*.hdf
+data/*.pkl
+*.log
+*.sqlite
+
+# Archivos de logs o salidas
+logs/
+output/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración IDE (ej. VS Code)
+.vscode/
+

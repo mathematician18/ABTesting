@@ -14,7 +14,7 @@ This project performs an A/B test to analyze the impact of a new feature (or any
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/mathematician18/ABTesting.git](https://github.com/mathematician18/ABTesting.git)
+git clone [https://github.com/mathematician18/ABTesting.git](https://github.com/mathematician18/AirbnbGH.git)
 cd ABTesting
     ```
 

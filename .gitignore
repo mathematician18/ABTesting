@@ -14,11 +14,6 @@ __pycache__/
 .pytest_cache/
 
 # Archivos de datos grandes o sensibles
-data/*.csv  
-data/*.json
-data/*.parquet
-data/*.hdf
-data/*.pkl
 *.log
 *.sqlite
 
